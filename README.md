@@ -1,2 +1,3 @@
 # Scikit-Learn-basics
-This repository consists of basic SK learn tutorials explaining commonly used commands and model building algorithms in SK learn. The dataset used in the tutorials is the iris dataset
+This repository consists of basic SK learn tutorials explaining commonly used commands and model building algorithms in SK learn.Scikit-learn (formerly scikits.learn and also known as sklearn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. 
+The dataset used in the tutorials is the iris dataset.
